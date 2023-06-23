@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>assets/hustmap.png</file>
+        <file>assets/lines.txt</file>
+        <file>assets/organization.txt</file>
+        <file>assets/stops.txt</file>
+    </qresource>
+</RCC>
