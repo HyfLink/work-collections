@@ -11,10 +11,10 @@ Uploads some of projects.
 
     基于 Qt 的简单地图程序
 
-- mcc
+- learnSTL 
 
-    C语言编译器前端
+    学习C++ STL
 
-- teris-rs
+- tmeta
 
-    基于 Rust + Bevy 的俄罗斯方块游戏
+    学习模板元编程
